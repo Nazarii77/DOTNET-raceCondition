@@ -1,0 +1,13 @@
+C:\Users\boich\source\repos\RaceCondition\RaceCondition\bin\Debug\netcoreapp3.1\RaceCondition.exe
+C:\Users\boich\source\repos\RaceCondition\RaceCondition\bin\Debug\netcoreapp3.1\RaceCondition.deps.json
+C:\Users\boich\source\repos\RaceCondition\RaceCondition\bin\Debug\netcoreapp3.1\RaceCondition.runtimeconfig.json
+C:\Users\boich\source\repos\RaceCondition\RaceCondition\bin\Debug\netcoreapp3.1\RaceCondition.runtimeconfig.dev.json
+C:\Users\boich\source\repos\RaceCondition\RaceCondition\bin\Debug\netcoreapp3.1\RaceCondition.dll
+C:\Users\boich\source\repos\RaceCondition\RaceCondition\bin\Debug\netcoreapp3.1\RaceCondition.pdb
+C:\Users\boich\source\repos\RaceCondition\RaceCondition\obj\Debug\netcoreapp3.1\RaceCondition.csprojAssemblyReference.cache
+C:\Users\boich\source\repos\RaceCondition\RaceCondition\obj\Debug\netcoreapp3.1\RaceCondition.AssemblyInfoInputs.cache
+C:\Users\boich\source\repos\RaceCondition\RaceCondition\obj\Debug\netcoreapp3.1\RaceCondition.AssemblyInfo.cs
+C:\Users\boich\source\repos\RaceCondition\RaceCondition\obj\Debug\netcoreapp3.1\RaceCondition.csproj.CoreCompileInputs.cache
+C:\Users\boich\source\repos\RaceCondition\RaceCondition\obj\Debug\netcoreapp3.1\RaceCondition.dll
+C:\Users\boich\source\repos\RaceCondition\RaceCondition\obj\Debug\netcoreapp3.1\RaceCondition.pdb
+C:\Users\boich\source\repos\RaceCondition\RaceCondition\obj\Debug\netcoreapp3.1\RaceCondition.genruntimeconfig.cache
